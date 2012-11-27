@@ -1,6 +1,6 @@
 package edu.ncsu.csc574.emailserver.authenticationmanager;
 
-import edu.ncsu.csc574.emailserver.workflowmanager.IRequest;
+import edu.ncsu.csc574.module.IRequest;
 
 
 
